@@ -125,6 +125,5 @@ export const Counter = () => {
   const CounterSelector = useSelector((state: RootState) => state.counter);
   // ...
 };
-
-Esses são alguns códigos utilizados do Redux Toolkit no projeto. Eles ajudam a gerenciar o estado do contador e permitem que o componente Counter interaja com o Redux para atualizar o estado e renderizar o valor do contador na tela.
 ```
+Esses são alguns códigos utilizados do Redux Toolkit no projeto. Eles ajudam a gerenciar o estado do contador e permitem que o componente Counter interaja com o Redux para atualizar o estado e renderizar o valor do contador na tela.
