@@ -1,3 +1,5 @@
+link do projeto: (https://count-redux-toolkit-nextjs.vercel.app/)
+
 # Projeto de Estudo com Redux Toolkit
 
 ![Tela Principal](public/interface.png)
